@@ -1,0 +1,8 @@
+/src
+/tsconfig.json
+/tslint.json
+/.vscode
+/.gitignore
+/.npmrc
+/gulpfile.js
+/.prettierrc

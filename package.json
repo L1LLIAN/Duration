@@ -1,0 +1,38 @@
+{
+	"name": "@selyu/duration.js",
+	"version": "1.0.0",
+	"description": "Simple duration package",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"scripts": {
+		"build": "gulp",
+		"test": "yarn build && node tests/index.js"
+	},
+	"keywords": [
+		"duration",
+		"duration.js"
+	],
+	"private": false,
+	"author": "RubysTrans",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^11.13.8",
+		"del": "^4.1.1",
+		"gulp": "^4.0.1",
+		"gulp-sourcemaps": "^2.6.5",
+		"gulp-tslint": "^8.1.4",
+		"gulp-typescript": "^5.0.1",
+		"merge2": "^1.2.3",
+		"prettier": "^1.17.0",
+		"tslint": "^5.16.0",
+		"typescript": "^3.4.5"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/r-by/Duration.git"
+	},
+	"bugs": {
+		"url": "https://github.com/r-by/Duration/issues"
+	},
+	"homepage": "https://github.com/r-by/Duration#readme"
+}
