@@ -1,6 +1,6 @@
 export function parse(value: string): number {
     const matches = value.match(/(\d+)\s*([A-Za-z]+)/g);
-    let total: number | null = 0;
+    let total: number | null = -1;
 
     if (matches === null) {
         return -1;
