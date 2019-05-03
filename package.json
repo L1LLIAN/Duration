@@ -1,6 +1,6 @@
 {
 	"name": "@selyu/duration.js",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Simple duration package",
 	"main": "lib/index.js",
 	"types": "lib/index.d.ts",
@@ -13,7 +13,7 @@
 		"duration.js"
 	],
 	"private": false,
-	"author": "RubysTrans",
+	"author": "wine",
 	"license": "ISC",
 	"devDependencies": {
 		"@types/node": "^11.13.8",

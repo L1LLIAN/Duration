@@ -1,8 +1,11 @@
 # Duration.js
-
+----
 Simple to use TypeScript built framework for parsing time durations.
 
-Example
+# Example usage
+----
+
+Vanilla JS
 
 ```JS
 const duration = require("@selyu/duration.js");
