@@ -24,7 +24,7 @@
 		"gulp-typescript": "^5.0.1",
 		"merge2": "^1.2.3",
 		"prettier": "^1.17.0",
-		"tslint": "^5.16.0",
+		"tslint": "^6.1.0",
 		"typescript": "^3.4.5"
 	},
 	"repository": {
