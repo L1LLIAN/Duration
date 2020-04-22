@@ -16,7 +16,7 @@
 	"author": "wine",
 	"license": "ISC",
 	"devDependencies": {
-		"@types/node": "^12.12.3",
+		"@types/node": "^13.13.2",
 		"del": "^5.1.0",
 		"gulp": "^4.0.1",
 		"gulp-sourcemaps": "^2.6.5",
